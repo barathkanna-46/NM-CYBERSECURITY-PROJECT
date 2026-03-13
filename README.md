@@ -2,6 +2,8 @@
 
 PROJECT TITLE: Implement and manage Zero Trust Network Access (ZTNA) using Zscaler by enabling secure, identity-based user-to application connectivity without exposing internal networks.
 
+DRIVE LINK: https://drive.google.com/file/d/1wnr0pCFqugQvKBO1vJ1w-vOktszMGJjW/view?usp=drive_link
+
 College Name: Sri Krishna Adithya College of Arts and Science
 
 College Code: BRUAG
